@@ -1,0 +1,17 @@
+{
+  "twitter_api": {
+    "consumer_key": "",
+    "consumer_secret": "",
+    "access_token": "",
+    "access_token_secret": ""
+  },
+  "public": {
+    "stream": {
+      "count_limit": 1000,
+      "save_every": 10
+    },
+    "search": {
+      "count_limit": 2000
+    }
+  }
+}

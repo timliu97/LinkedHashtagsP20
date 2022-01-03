@@ -1,0 +1,17 @@
+{
+  "twitter_api": {
+    "consumer_key": "SGyPGhTImUio6KcNkBLJH7WMb",
+    "consumer_secret": "F95isFLiVP2GR8BPQgIHN3e7GTjxVtvvmsPtosyuQ44SRt2bgE",
+    "access_token": "1227336966577979392-VVQQ8DGwTVKHXmlb61fa770N9CUCCR",
+    "access_token_secret": "d6NxmpX6bCHR2ak54TXSyGud929dlDli2FIDQeVF9021R"
+  },
+  "public": {
+    "stream": {
+      "count_limit": 1000,
+      "save_every": 10
+    },
+    "search": {
+      "count_limit": 200
+    }
+  }
+}
