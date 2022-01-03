@@ -208,6 +208,7 @@ This is a research project for the [University of Technology of Troyes (UTT)](ht
 
 -   [Yassine Doghri](https://github.com/yassinedoghri)
 -   [XU Zhengyi](https://github.com/xuzhengyi1995)
+-   [Qishu LIU](https://github.com/timliu97)
 
 ## Copyright and licence
 
